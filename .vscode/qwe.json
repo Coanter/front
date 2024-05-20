@@ -1,0 +1,19 @@
+{
+    "book": {
+      "title": "Adventure Time",
+      "author": "Ya",
+      "genre": "Fiction",
+      "publication_year": 1960
+    }
+  }
+
+{
+    "student": {
+      "name": "Ya",
+      "student_id": "12345",
+      "major": "SEST",
+      "year_of_study": 2,
+      "email": "kazakov_t@auca.kg"
+    }
+  }
+  
